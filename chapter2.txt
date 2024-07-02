@@ -1,1 +1,1 @@
-This is the chapter 2. This doesnt have the add friend feature.
+This is the chapter 2. This is trying to implement the add friend feature!
