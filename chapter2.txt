@@ -1,1 +1,3 @@
-This is the chapter 2. This is trying to implement the add friend feature!
+This is the chapter 2. The add friend feature is implemented!
+Press the below button to add friend!!
+Add Friend ;)
